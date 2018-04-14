@@ -7,6 +7,8 @@ Require chromedriver.exe, and it has to be under the path ("./ChromeDriver/chrom
 
 Require selenium (3.4.3)  
 
+Require PyQt5 (5.10.1) & pyqt5-tools (5.9.0.1.2)  
+
 After the configuration being done, just run the Start.py and Goooooood luck :)  
 
 # Files Description  
