@@ -5,6 +5,8 @@ Require Chrome 56.X plus
 
 Require chromedriver.exe, and it has to be under the path ("./ChromeDriver/chromedriver.exe").  
 
+Require selenium (3.4.3)  
+
 After the configuration being done, just run the Start.py and Goooooood luck :)  
 
 # Files Description  
